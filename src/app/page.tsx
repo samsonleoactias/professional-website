@@ -96,7 +96,7 @@ const Page = () => {
           }}
         >
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--a former apprentice electrician, bar
-          server, and New York Fashion Week photographer's assistant
+          server, and New York Fashion Week photographer&#39;s assistant
         </Typography>
         <Typography
           sx={{
@@ -164,7 +164,7 @@ const Page = () => {
           }}
         >
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contracted
-          pen testers to increase their testing coverage of my team's
+          pen testers to increase their testing coverage of my team&#39;s
           application from 50% to 100%
         </Typography>
         <Typography
@@ -271,7 +271,7 @@ const Page = () => {
           }}
         >
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently the
-          computer player algorithm isn't very sophisticated.
+          computer player algorithm isn&#39;t very sophisticated.
         </Typography>
         <Typography
           sx={{
