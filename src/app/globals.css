@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #8b322c;
+}
+
+#left-image {
+  float: left;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+#right-image {
+  margin-bottom: 20px;
+}
+
+.MuiTypography-root {
+  color: #ffc470;
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.MuiTypography-h1 {
+  margin-left: 10px;
+}
+
+#menu {
+  border-bottom-width: 4px;
+  border-color: #dd5746;
+}
+
+.MuiTab-root {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: none;
+  color: #ffc470;
+  font-size: 30px;
+}
