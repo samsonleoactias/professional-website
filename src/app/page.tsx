@@ -312,6 +312,14 @@ const Page = () => {
           </Typography>
           <Typography
             sx={{
+              fontSize: "15px",
+              paddingLeft: "45px",
+            }}
+          >
+            --mobile device compatability
+          </Typography>
+          <Typography
+            sx={{
               fontSize: "25px",
             }}
           >
@@ -343,7 +351,7 @@ const Page = () => {
               href="https://chess-ui-de2f40ad29e2.herokuapp.com/game"
               target="_blank"
             >
-              Link: Website
+              Link: Website (not optimized for mobile devices)
             </Link>
           </Typography>
         </CustomTabPanel>
@@ -691,6 +699,14 @@ const Page = () => {
       </Typography>
       <Typography
         sx={{
+          fontSize: "15px",
+          paddingLeft: "45px",
+        }}
+      >
+        --mobile device compatability
+      </Typography>
+      <Typography
+        sx={{
           fontSize: "20px",
         }}
       >
@@ -722,7 +738,7 @@ const Page = () => {
           href="https://chess-ui-de2f40ad29e2.herokuapp.com/game"
           target="_blank"
         >
-          Link: Website
+          Link: Website (not optimized for mobile devices)
         </Link>
       </Typography>
       <Typography
