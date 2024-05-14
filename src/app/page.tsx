@@ -4,7 +4,6 @@ import { Box, Tab, Tabs, Typography } from "@mui/material";
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
 interface TabPanelProps {
