@@ -227,14 +227,6 @@ const Page = () => {
           >
             --hello at samsonleoactias dot com
           </Typography>
-          <Typography
-            sx={{
-              fontSize: "20px",
-              paddingLeft: "30px",
-            }}
-          >
-            --linkedin.com/in/samsonleoactias
-          </Typography>
         </CustomTabPanel>
         <CustomTabPanel value={value} index={1}>
           <Typography
@@ -594,14 +586,6 @@ const Page = () => {
         }}
       >
         --hello at samsonleoactias dot com
-      </Typography>
-      <Typography
-        sx={{
-          fontSize: "15px",
-          paddingLeft: "20px",
-        }}
-      >
-        --linkedin.com/in/samsonleoactias
       </Typography>
       <Typography
         align="center"
