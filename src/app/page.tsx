@@ -34,7 +34,7 @@ const Page = () => {
     return (
       <>
         <Typography variant="h1" align="center">
-          samson leo actias
+          sam actias
         </Typography>
         <Image
           src={`/images/woods.jpg`}
@@ -225,7 +225,7 @@ const Page = () => {
               paddingLeft: "30px",
             }}
           >
-            --hello at samsonleoactias dot com
+            --sam dot actias at gmail dot com
           </Typography>
         </CustomTabPanel>
         <CustomTabPanel value={value} index={1}>
@@ -315,7 +315,7 @@ const Page = () => {
             }}
           >
             <Link
-              href="https://github.com/samsonleoactias/chess-game-server"
+              href="https://github.com/sam-actias/chess-game-server"
               target="_blank"
             >
               Link: Github for server
@@ -326,10 +326,7 @@ const Page = () => {
               fontSize: "25px",
             }}
           >
-            <Link
-              href="https://github.com/samsonleoactias/chess-ui"
-              target="_blank"
-            >
+            <Link href="https://github.com/sam-actias/chess-ui" target="_blank">
               Link: Github for UI
             </Link>
           </Typography>
@@ -418,7 +415,7 @@ const Page = () => {
   return (
     <>
       <Typography variant="h3" align="center" sx={{ marginBottom: "15px" }}>
-        samson leo actias
+        sam actias
       </Typography>
       <Image
         src={`/images/woods.jpg`}
@@ -585,7 +582,7 @@ const Page = () => {
           paddingLeft: "20px",
         }}
       >
-        --hello at samsonleoactias dot com
+        --sam dot actias at gmail dot com
       </Typography>
       <Typography
         align="center"
@@ -694,7 +691,7 @@ const Page = () => {
         }}
       >
         <Link
-          href="https://github.com/samsonleoactias/chess-game-server"
+          href="https://github.com/sam-actias/chess-game-server"
           target="_blank"
         >
           Link: Github for server
@@ -705,10 +702,7 @@ const Page = () => {
           fontSize: "20px",
         }}
       >
-        <Link
-          href="https://github.com/samsonleoactias/chess-ui"
-          target="_blank"
-        >
+        <Link href="https://github.com/sam-actias/chess-ui" target="_blank">
           Link: Github for UI
         </Link>
       </Typography>
