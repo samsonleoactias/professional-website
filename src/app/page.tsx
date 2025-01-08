@@ -343,7 +343,6 @@ const Page = () => {
             </Link>
           </Typography>
           <Typography>
-            \n\n
           </Typography>
           <Typography
             sx={{
@@ -765,7 +764,6 @@ const Page = () => {
         </Link>
       </Typography>
       <Typography>
-        \n
       </Typography>
       <Typography
         sx={{
