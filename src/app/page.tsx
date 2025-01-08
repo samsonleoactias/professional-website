@@ -318,7 +318,7 @@ const Page = () => {
               href="https://github.com/sam-actias/chess-game-server"
               target="_blank"
             >
-              Link: Github for server
+              Link: GitHub for server
             </Link>
           </Typography>
           <Typography
@@ -327,7 +327,7 @@ const Page = () => {
             }}
           >
             <Link href="https://github.com/sam-actias/chess-ui" target="_blank">
-              Link: Github for UI
+              Link: GitHub for UI
             </Link>
           </Typography>
           <Typography
@@ -340,6 +340,52 @@ const Page = () => {
               target="_blank"
             >
               Link: Website (not optimized for mobile devices)
+            </Link>
+          </Typography>
+          <Typography>
+            \n\n
+          </Typography>
+          <Typography
+            sx={{
+              fontSize: "25px",
+            }}
+          >
+            Pokemon Trading Card Game CLI and AI:
+          </Typography>
+          <Typography
+            sx={{
+              fontSize: "20px",
+              paddingLeft: "30px",
+            }}
+          >
+            In-progress CLI replication of the Pokemon Trading Card Game. Not playable yet.
+          </Typography>
+          <Typography
+            sx={{
+              fontSize: "20px",
+              paddingLeft: "30px",
+            }}
+          >
+            Final goal is to train a machine learning model with TensorFlow to play the game with the user.
+          </Typography>
+          <Typography
+            sx={{
+              fontSize: "20px",
+              paddingLeft: "30px",
+            }}
+          >
+            Written in Python.
+          </Typography>
+          <Typography
+            sx={{
+              fontSize: "25px",
+            }}
+          >
+            <Link
+              href="https://github.com/sam-actias/PokemonAI"
+              target="_blank"
+            >
+              Link: GitHub
             </Link>
           </Typography>
         </CustomTabPanel>
@@ -694,7 +740,7 @@ const Page = () => {
           href="https://github.com/sam-actias/chess-game-server"
           target="_blank"
         >
-          Link: Github for server
+          Link: GitHub for server
         </Link>
       </Typography>
       <Typography
@@ -703,7 +749,7 @@ const Page = () => {
         }}
       >
         <Link href="https://github.com/sam-actias/chess-ui" target="_blank">
-          Link: Github for UI
+          Link: GitHub for UI
         </Link>
       </Typography>
       <Typography
@@ -716,6 +762,52 @@ const Page = () => {
           target="_blank"
         >
           Link: Website (not optimized for mobile devices)
+        </Link>
+      </Typography>
+      <Typography>
+        \n
+      </Typography>
+      <Typography
+        sx={{
+          fontSize: "20px",
+        }}
+      >
+        Pokemon Trading Card Game CLI and AI:
+      </Typography>
+      <Typography
+        sx={{
+          fontSize: "15px",
+          paddingLeft: "30px",
+        }}
+      >
+        In-progress CLI replication of the Pokemon Trading Card Game. Not playable yet.
+      </Typography>
+      <Typography
+        sx={{
+          fontSize: "15px",
+          paddingLeft: "30px",
+        }}
+      >
+        Final goal is to train a machine learning model with TensorFlow to play the game with the user.
+      </Typography>
+      <Typography
+        sx={{
+          fontSize: "15px",
+          paddingLeft: "30px",
+        }}
+      >
+        Written in Python.
+      </Typography>
+      <Typography
+        sx={{
+          fontSize: "20px",
+        }}
+      >
+        <Link
+          href="https://github.com/sam-actias/PokemonAI"
+          target="_blank"
+        >
+          Link: GitHub
         </Link>
       </Typography>
       <Typography
