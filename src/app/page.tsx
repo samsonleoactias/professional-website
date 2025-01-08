@@ -303,7 +303,7 @@ const Page = () => {
           </Typography>
           <Typography
             sx={{
-              fontSize: "15px",
+              fontSize: "20px",
               paddingLeft: "45px",
             }}
           >
