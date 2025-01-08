@@ -347,6 +347,7 @@ const Page = () => {
           <Typography
             sx={{
               fontSize: "25px",
+              marginTop: "25px",
             }}
           >
             Pokemon Trading Card Game CLI and AI:
@@ -763,11 +764,10 @@ const Page = () => {
           Link: Website (not optimized for mobile devices)
         </Link>
       </Typography>
-      <Typography>
-      </Typography>
       <Typography
         sx={{
           fontSize: "20px",
+          marginTop: "20px",
         }}
       >
         Pokemon Trading Card Game CLI and AI:
